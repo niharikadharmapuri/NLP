@@ -1,0 +1,1 @@
+This project does Autosummarization of a given text. The text is obtained by scraping 'washington post' website using Beautiful soup and requests.
